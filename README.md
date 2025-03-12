@@ -4,6 +4,8 @@
 
 Este proyecto implementa una API REST para la gestión de una gasolinera, desarrollado para la empresa CONTOSO S.L. El sistema permite gestionar surtidores, productos (combustibles), precios, tanques y registrar operaciones de suministro de combustible.
 
+Se recomiendo ver el archivo: enunciado_ejercicio.pdf para entender lo que se pretende implementar y también el modelo entidad relación albergado en la raíz de este proyecto.
+
 ## Tecnologías Utilizadas
 
 - Java 17
